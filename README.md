@@ -1,4 +1,4 @@
-Sales Forecasting Using Time Series Analysis (ARIMA / SARIMA)
+# Sales Forecasting Using Time Series Analysis (ARIMA / SARIMA)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Statsmodels](https://img.shields.io/badge/Stats-Statsmodels-informational)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
