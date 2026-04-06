@@ -19,9 +19,14 @@ Run
 pip install -r DS3_SalesForecasting__requirements.txt
 python DS3_SalesForecasting__main.py
 ```
-Results
+## Results
+
 Model	MAE	RMSE	MAPE
+
 ARIMA(1,1,1)	~$420	~$530	~5.2%
+
 SARIMA(1,1,1)(1,1,1,12)	~$290	~$375	~3.6%
+
 SARIMA captures seasonal patterns; ARIMA misses Q4 peaks
+
 6-month forward forecast generated for inventory planning
